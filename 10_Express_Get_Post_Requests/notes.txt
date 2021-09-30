@@ -1,0 +1,25 @@
+HTTP GET
+---------------
+1)Normal
+  ex- /about->about page
+      /profile->profile
+
+2)GET request with parameters (also for filter)
+  Ex:- /profile/1->the person whose id 1 in the database so, that person
+       profile has to come.
+       /employees/540->id with 540 specific employee has to come
+
+3) GET Request with query String
+    Ex->when we search something in you-tube search box this name has
+    substituted as a value in the search_query(.com/result?search_query=naveen saggam)
+
+//how to handle the POST request
+1)Create a form with method='post' action='/login'
+2)each form filed with 'name' : attribute
+3)install (separate package to handle post request) that is "body-parser"
+    how-npm install body-parser -save
+4)configure the body-parser(
+5)get the form data using 'req.body'
+
+
+
