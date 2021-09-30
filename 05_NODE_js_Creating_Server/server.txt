@@ -1,0 +1,16 @@
+//we can create a server using http-> core module
+----------
+what is a server->
+  ans-> server take a request from the client is does some process
+        and some validation it also interacts with the database
+        it prepared or perform the request and send back to the client
+
+ every server have two things common 1)host name
+                                     2)port number(0-65535)don't give upto 1024
+                                         better to give 3000-9999
+     for every website
+     client(frontend)  ->   backend(server,database)
+port number like a main gate of building
+
+live-server  for every change on your file
+npm install -g nodemon (restart the server on every change)
