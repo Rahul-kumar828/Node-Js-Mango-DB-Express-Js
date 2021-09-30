@@ -1,0 +1,14 @@
+{
+  "name": "07_express_creating_server",
+  "version": "1.0.0",
+  "description": "Express JS Creating Server Example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
