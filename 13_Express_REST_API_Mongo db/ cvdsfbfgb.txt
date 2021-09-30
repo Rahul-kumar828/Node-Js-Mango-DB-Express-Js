@@ -1,0 +1,1 @@
+npm start->start script->nodemon app_local.js
