@@ -1,0 +1,14 @@
+{
+  "name": "08_express_routing",
+  "version": "1.0.0",
+  "description": "Express Routing Example on CSS Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
