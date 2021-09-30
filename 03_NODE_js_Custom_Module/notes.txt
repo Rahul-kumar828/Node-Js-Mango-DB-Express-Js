@@ -1,0 +1,14 @@
+generally we import module like this
+>>>>> const os=require('os');
+//
+const util=require('util');//here system will confuse that which module
+       you import either custom module or core module//so
+
+   so there is a slite difference that id--
+
+const util=require('./util');//this work in import
+/////so we need to export also////
+module.exports={
+greet
+};
+first declare the module than we have to export it
