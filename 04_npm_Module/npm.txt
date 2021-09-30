@@ -1,0 +1,25 @@
+//3rd party module
+1)lodash->js utility library
+2)moment.js->for data ,times module
+
+//setup
+default file
+"package.json"->configuration file of your project
+  conf means what is the version of application ,name of application ,how many module dependent how many script version of dependent module
+
+  //create package.json file
+  command npm init
+
+  //every 3rd party module search in the npm repository;
+
+  //let num=10;
+  //type of num=== number;(yes it is a number)//basically it is a logic
+  in place of that lodash provide function;
+  $$$$$how to install lodash$$$$$
+  two ways we can install module
+  1)for global-  npm install -g live-server(live server for global)
+  2)for local-   npm install lodash --save (for global just implement -g)
+
+////
+npm install for all npm
+
